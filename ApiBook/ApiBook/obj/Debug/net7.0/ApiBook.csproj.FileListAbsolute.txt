@@ -1,0 +1,153 @@
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\appsettings.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.exe
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Humanizer.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.ApiBook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiBook.props
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiBook.props
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiBook.props
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\scopedcss\bundle\ApiBook.styles.css
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\refint\ApiBook.dll
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\Proyectos ajenos\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ref\ApiBook.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\appsettings.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.exe
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.deps.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.runtimeconfig.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\ApiBook.pdb
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.AssemblyReference.cache
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.AssemblyInfoInputs.cache
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.AssemblyInfo.cs
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.CoreCompileInputs.cache
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.sourcelink.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.ApiBook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiBook.props
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiBook.props
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiBook.props
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\scopedcss\bundle\ApiBook.styles.css
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.csproj.Up2Date
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\refint\ApiBook.dll
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.pdb
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ApiBook.genruntimeconfig.cache
+C:\Users\rocka\Downloads\ApiBook\ApiBook\ApiBook\ApiBook\obj\Debug\net7.0\ref\ApiBook.dll
